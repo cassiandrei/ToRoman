@@ -16,7 +16,7 @@ O arquivo de teste `decimais_romanos_1_a_3999.txt` deve estar no mesmo diretóri
 1. Abra o terminal e navegue até a pasta do projeto:
 
    ```bash
-   cd /Users/cassianoandreidiasdasilveiraschneider/Projetos/WUT/ToRoman
+   cd .../ToRoman
    ```
 
 2. Execute o script Python:
@@ -34,7 +34,7 @@ O script irá mostrar exemplos de conversão e testar todas as 3999 combinaçõe
 1. Abra o terminal e navegue até a pasta do projeto:
 
    ```bash
-   cd /Users/cassianoandreidiasdasilveiraschneider/Projetos/WUT/ToRoman
+   cd .../ToRoman
    ```
 
 2. Execute o projeto com o comando:
