@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+.env
+.venv
+venv/
+ENV/
+
+# VSCode
+.vscode/
+
+# Dotnet
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+*.dbmdl
+*.log
+*.vs/
+
+# MacOS
+.DS_Store
+
+# Outros
+*.swp
+*.swo
+Thumbs.db
+
+# Arquivos de teste grandes (opcional, remova se quiser versionar)
+# decimais_romanos_1_a_3999.txt
